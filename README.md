@@ -1,4 +1,4 @@
-# InterviewIOHub
+# InterviewIQHub
 
 
   <img src="frontend\src\logo.png" alt="Your Image" style="display: flex; text-align: center;">
@@ -10,7 +10,7 @@
 ## Introduction our website
 
 
-<h3>Welcome to the InterviewIOHub website, your premier destination for conducting comprehensive interviews in MERN, Node.js, and Java. Harnessing the power of AI, we provide an efficient and seamless experience for evaluating candidates' skills in these cutting-edge technologies.</h3>
+<h3>Welcome to the InterviewIQHub website, your premier destination for conducting comprehensive interviews in MERN, Node.js, and Java. Harnessing the power of AI, we provide an efficient and seamless experience for evaluating candidates' skills in these cutting-edge technologies.</h3>
 
 ## Team Members
 
