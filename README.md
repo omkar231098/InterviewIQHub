@@ -61,7 +61,7 @@ https://github.com/mdasriya/ByteWave
 ### frontend deployed link
 
 ```
-https://frontend-gray-pi.vercel.app/
+https://frontend-omkar231098.vercel.app
 ```
 ### backend deployed link
 
